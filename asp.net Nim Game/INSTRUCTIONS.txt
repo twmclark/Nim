@@ -1,0 +1,4 @@
+This is a C# and .NET framework game of nim. uses a SQL database to store the scores of each player and has an
+AI opponent.
+
+To 
